@@ -1,0 +1,13 @@
+Subject: precio fijo para el MVP de {{proyecto_o_empresa}}
+
+Hola {{nombre}},
+
+{{primera_linea}}
+
+La queja #1 de los founders no técnicos con las agencias: presupuestos que se estiran y plazos que nadie cumple.
+
+Nosotros lo hacemos al revés: precio fijo y fecha fija, desde $399. Sabés exactamente cuánto pagás y cuándo se entrega. MVPs, dashboards, APIs — y el código es tuyo.
+
+¿Tenés 15 minutos esta semana? Te cotizo en la misma llamada.
+
+{{firma}}

@@ -1,0 +1,4 @@
+negocio,nombre,telefono,email,web,red_social,rubro,ciudad,icp,fuente,fecha_alta,place_id,rating,num_resenas,estado,primera_linea,hallazgos,variante
+Clínica Dental Sonrisa,María,+34 600 000 000,info@clinicasonrisa-ejemplo.com,,https://instagram.com/clinicasonrisa,dentista,Valencia,ICP-1,Google Maps,2026-07-08,SAMPLE_PLACE_ID_1,4.8,214,nuevo,,,A
+Taller Rodríguez,,+54 11 0000 0000,,http://tallerrodriguez-ejemplo.com.ar,,taller mecánico,Buenos Aires,ICP-2,Google Maps,2026-07-08,SAMPLE_PLACE_ID_2,4.5,89,nuevo,,"— No se adapta a móvil (60%+ de tus visitas entran desde el celular)
+— Sin candado de seguridad (HTTPS): Chrome la marca 'No segura'",B
