@@ -1,0 +1,9 @@
+Subject: Re: 3 cosas de {{dominio_lead}}
+
+{{nombre}}, último mensaje de mi parte.
+
+El análisis de {{dominio_lead}} queda hecho — si querés retomarlo en cualquier momento, respondé este email o entrá a devlop.it.
+
+¡Éxitos!
+
+{{firma}}

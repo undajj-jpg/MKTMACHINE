@@ -1,0 +1,9 @@
+Subject: un ejemplo concreto para {{negocio}}
+
+{{nombre}}, te dejo un ejemplo concreto: a {{caso_nombre}} le renovamos la web hace poco — {{caso_resultado}}.
+
+Lo mejor: no pagó un proyecto de miles. Plan mensual desde $29 con todo incluido, y la web nueva queda online en días. El código es suyo.
+
+¿Vemos la de {{negocio}} en 15 minutos? → {{link_agenda}}
+
+{{firma}}

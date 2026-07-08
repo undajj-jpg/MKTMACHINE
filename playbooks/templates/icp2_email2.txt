@@ -1,0 +1,9 @@
+Subject: Re: 3 cosas de {{dominio_lead}}
+
+{{nombre}}, ¿llegaste a ver el análisis de {{dominio_lead}}?
+
+Lo más urgente es {{hallazgo_principal}} — es de esas cosas que no se ven desde adentro pero espantan clientes todos los días.
+
+¿Te mando la propuesta de arreglo?
+
+{{firma}}

@@ -1,0 +1,13 @@
+Subject: las ventas que se te escapan por DM
+
+Hola {{nombre}},
+
+{{primera_linea}}
+
+Les escribo porque veo que venden por {{red_social}} — me imagino la cantidad de ventas que se cierran (o se pierden) por DM a cualquier hora.
+
+Con una tienda online propia, el catálogo, los pagos y los envíos se manejan solos: el cliente compra a las 11 de la noche sin que estés del otro lado. Pasarela de pagos incluida (Stripe, MercadoPago) y sin comisiones por venta.
+
+¿Te muestro cómo se vería la tienda de {{negocio}}?
+
+{{firma}}

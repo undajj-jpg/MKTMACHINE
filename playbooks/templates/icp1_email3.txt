@@ -1,0 +1,9 @@
+Subject: te hice un boceto de la web de {{negocio}}
+
+{{nombre}}, me tomé un rato y armé un boceto de cómo podría verse la web de {{negocio}}: {{link_mockup}}
+
+Es solo una primera idea — colores, fotos y textos se ajustan a tu gusto (los cambios están incluidos en el plan mensual).
+
+Si te gusta, en menos de una semana está online. ¿Lo vemos en una llamada de 15 minutos? → {{link_agenda}}
+
+{{firma}}
