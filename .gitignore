@@ -1,0 +1,11 @@
+# Secretos — nunca commitear
+scripts/.env
+.env
+
+# Datos reales de la campaña (contienen datos personales de leads)
+data/leads.csv
+data/crm.sqlite
+
+# Python
+__pycache__/
+*.pyc

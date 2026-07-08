@@ -1,0 +1,13 @@
+Subject: 3 cosas de {{dominio_lead}}
+
+Hola {{nombre}},
+
+Entré a {{dominio_lead}} y encontré algunas cosas que te están costando clientes:
+
+{{hallazgos}}
+
+Son arreglos que hacemos habitualmente — o directamente una web nueva con hosting, cambios y soporte incluidos desde $29/mes.
+
+¿Querés que te mande el detalle completo del análisis? Es gratis.
+
+{{firma}}

@@ -1,0 +1,6 @@
+{{remitente_nombre}}
+dev.lop — webs y software con todo incluido
+https://devlop.it
+
+Te escribo porque encontré tu negocio en {{fuente}}.
+Si prefieres que no te contacte más, responde "baja" y listo.

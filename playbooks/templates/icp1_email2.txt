@@ -1,0 +1,9 @@
+Subject: Re: ¿la web de {{negocio}}?
+
+Hola {{nombre}}, ¿viste mi mensaje anterior?
+
+Solo para dimensionar: el 76% de la gente mira la web de un negocio antes de visitarlo o llamar. Sin web, esa primera impresión la decide tu competencia.
+
+¿Te interesa que te arme una propuesta? Es gratis y sin compromiso.
+
+{{firma}}

@@ -1,0 +1,13 @@
+Subject: ¿la web de {{negocio}}?
+
+Hola {{nombre}},
+
+{{primera_linea}}
+
+Busqué {{negocio}} en Google y no encontré página web propia — la ficha lleva a {{red_social}}. Cada persona que te busca y no encuentra web termina en la competencia que sí la tiene.
+
+Nosotros dejamos webs listas en días, con hosting, cambios y soporte incluidos desde $29/mes. Sin pagar miles por adelantado.
+
+¿Te muestro cómo se vería la de {{negocio}}? Respondeme "sí" y te mando una propuesta visual sin compromiso.
+
+{{firma}}
